@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "PseudoHarmonicInterpolation",
+					"jsonFile" : "directory-PseudoHarmonicInterpolation-Debug-b7ef8af57d3ab3fc53e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "PseudoHarmonicInterpolation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "PseudoHarmonicInterpolation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "PseudoHarmonicInterpolation::@91b616e8d2ae98727077",
+					"jsonFile" : "target-PseudoHarmonicInterpolation-Debug-5ac76fe0ad0054c87b3b.json",
+					"name" : "PseudoHarmonicInterpolation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/VisualCpp/PseudoHarmonicInterpolation/out/build/x64-debug",
+		"source" : "C:/VisualCpp/PseudoHarmonicInterpolation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
